@@ -3,3 +3,5 @@ numpy
 seaborn
 sklearn
 scikit-learn
+dill
+xgboost
